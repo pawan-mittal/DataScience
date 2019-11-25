@@ -26,7 +26,6 @@ cmap = cm.get_cmap('gnuplot')
 scatter = pd.scatter_matrix(X_train, c= y_train, marker = 'o', s=40, hist_kwds={'bins':15}, figsize=(9,9), cmap=cmap)
 
 
-![scatter matrix](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/m1-s1.png)
 
 
 ## plotting a 3D scatter plot
@@ -40,4 +39,3 @@ ax.set_ylabel('height')
 ax.set_zlabel('color_score')
 plt.show()
 
-![scatter matrix 3d](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/m1-s1-3d.png)
