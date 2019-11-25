@@ -40,3 +40,4 @@ ax.set_zlabel('color_score')
 plt.show()
 
 ![3D](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/m1-s1-3d.png)
+
