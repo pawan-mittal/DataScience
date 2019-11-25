@@ -1,4 +1,4 @@
-### Import required modules and load data file
+# Import required modules and load data file
 
 %matplotlib notebook
 
@@ -13,9 +13,9 @@ from sklearn.model_selection import train_test_split
 df = pd.read_table('file-path')
 df.head()
 
-### Examining the data
+# Examining the data
 
-# plotting a scatter matrix
+## plotting a scatter matrix
 from matplotlib import cm
 
 X = df[['height', 'width', 'mass', 'color_score']]
@@ -29,7 +29,7 @@ scatter = pd.scatter_matrix(X_train, c= y_train, marker = 'o', s=40, hist_kwds={
 ![scatter matrix](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/m1-s1.png)
 
 
-# plotting a 3D scatter plot
+## plotting a 3D scatter plot
 from mpl_toolkits.mplot3d import Axes3D
 
 fig = plt.figure()
