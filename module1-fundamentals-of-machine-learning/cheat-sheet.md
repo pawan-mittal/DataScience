@@ -1,9 +1,13 @@
 ### Import required modules and load data file
 
 %matplotlib notebook
+
 import numpy as np
+
 import matplotlib.pyplot as plt
+
 import pandas as pd
+
 from sklearn.model_selection import train_test_split
 
 df = pd.read_table('file-path')
