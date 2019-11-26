@@ -81,7 +81,7 @@ for thisaxis, K in zip(subaxes, [1, 3]):
     thisaxis.legend()
 plt.tight_layout()
 ```
-![1](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module2/6.png)
+![6](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module2/6.png)
 
 ## Regression model complexity as a function of K
 
@@ -108,6 +108,6 @@ Train $R^2 = {:.3f}$,  Test $R^2 = {:.3f}$'
     thisaxis.legend()
     plt.tight_layout(pad=0.4, w_pad=0.5, h_pad=1.0)
 ```
-![1](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module2/7.png)
+![7](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module2/7.png)
 
-![1](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module2/8.png)
+![8](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module2/8.png)
