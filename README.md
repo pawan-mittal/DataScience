@@ -10,4 +10,4 @@ Purpose of this repo is to make short notes based on learning in Course "Machine
         previously unseen images
 ## _[ML Tools](https://github.com/pawan-mittal/DataScience/blob/machine-learning-python/ml-tools.md "ML Tools")_
 
-## _[Module1 - Fundamentals of Machine Learning](https://github.com/pawan-mittal/DataScience/tree/machine-learning-python/module1-fundamentals-of-machine-learning "Module1 - Fundamentals of Machine Learning")_
+## _[Module1 - Fundamentals of Machine Learning](https://github.com/pawan-mittal/DataScience/tree/machine-learning-python/module1 "Module1 - Fundamentals of Machine Learning")_
