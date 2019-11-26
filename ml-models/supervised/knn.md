@@ -11,7 +11,7 @@ X_train_scaled = scaler.fit_transform(X_train)
 X_test_scaled = scaler.transform(X_test)
 ```
 
-### Result
+### Result (Classification)
 
 ```
 knn = KNeighborsClassifier(n_neighbors = 5)
@@ -26,6 +26,20 @@ example_fruit_scaled = scaler.transform(example_fruit)
 print('Predicted fruit type for ', example_fruit, ' is ', target_names_fruits[knn.predict(example_fruit_scaled)[0]-1])
 
 ```       
+
+### Result (Regression)
+
+```
+from sklearn.neighbors import KNeighborsRegressor
+
+X_train, X_test, y_train, y_test = train_test_split(X_R1, y_R1, random_state = 0)
+
+knnreg = KNeighborsRegressor(n_neighbors = 5).fit(X_train, y_train)
+
+print(knnreg.predict(X_test))
+print('R-squared test score: {:.3f}'
+     .format(knnreg.score(X_test, y_test)))
+```
 
 ## Classification
 
