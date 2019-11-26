@@ -25,7 +25,7 @@ cmap = cm.get_cmap('gnuplot')
 scatter = pd.scatter_matrix(X_train, c= y_train, marker = 'o', s=40, hist_kwds={'bins':15}, figsize=(9,9), cmap=cmap)
 ```
 
-![scatter](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/m1-s1.png)
+![scatter](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module1/scatter.png)
 
 ## create a mapping from fruit label value to fruit name to make results easier to interpret
 ``` 
@@ -44,7 +44,7 @@ ax.set_ylabel('height')
 ax.set_zlabel('color_score')
 plt.show()
 ```
-![3D](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/m1-s1-3d.png)
+![3D](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module1/scatter-3d.png)
 
 ## Default Steps for ML Model (Train Model)
 ```
@@ -88,6 +88,9 @@ plt.scatter(k_range, scores)
 plt.xticks([0,5,10,15,20]);
 ```
 
+![3D](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module1/scatter-visualization.png)
+
+
 ### How sensitive is k-NN classification accuracy to the train/test split proportion?
 
 ```
@@ -110,3 +113,4 @@ plt.xlabel('Training set proportion (%)')
 plt.ylabel('accuracy');
 ```
 
+![3D](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module1/scatter-visualization2.png)
