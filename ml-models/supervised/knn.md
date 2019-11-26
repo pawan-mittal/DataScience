@@ -83,7 +83,6 @@ plt.tight_layout()
 ```
 ![1](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module2/6.png)
 
-
 ## Regression model complexity as a function of K
 
 ```
