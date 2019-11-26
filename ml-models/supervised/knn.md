@@ -111,3 +111,4 @@ Train $R^2 = {:.3f}$,  Test $R^2 = {:.3f}$'
 ![7](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module2/7.png)
 
 ![8](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module2/8.png)
+
