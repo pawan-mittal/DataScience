@@ -1,22 +1,28 @@
-# Module1 - Fundamentals of ML
+# Module2 - Supervised Learning
 
-ML Methods - Supervised Learning/ Unsupervised Learning
+## Overview
 
-## Supervised Learning
+![Overview](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/2.png)
 
-![Supervised](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/supervised-ml.png)
+## Model Complexity 
+![Model Complexity](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/1.png)
 
-## UnSupervised Learning
+## Classification and Regression
 
-![UnSupervised](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/unsupervised/unsupervised-ml.png)
+![Classification and Regression](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/6.png)
 
-![UnSupervised](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/unsupervised/unsupervised-ml1.png)
+![Classification and Regression](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/3.png)
 
+## Multi Class - Classification
 
-## Basic ML Flow
+![Multi Class - Classification](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/4.png)
 
-![Basic ML](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/basic-ml-flow.png)
+![Multi Class - Classification](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/5.png)
 
-## E.g. Feature Representation
+## R2 ("r-squared") regression score
 
-![Feature Representation](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/feature-representation.png)
+![regression score](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/7.png)
+
+## Least-Sqares linear regression
+
+![Least-Sqares linear regression](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/8.png)
