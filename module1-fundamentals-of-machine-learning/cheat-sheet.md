@@ -10,6 +10,9 @@ df = pd.read_table('file-path')
 df.head()
 
 ```
+## Dateset
+![scatter](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/datasets/m1.png)
+
 # Examining the data
 ## plotting a scatter matrix
 
