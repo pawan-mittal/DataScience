@@ -1,4 +1,4 @@
-# Module1 - Fundamentals of Machine Learning
+# Module2 - Supervised Learning, Part I
 
 ## [Basics](basics.md "Basics")
 
