@@ -6,5 +6,3 @@
 
 ## [CheatSheet](https://github.com/pawan-mittal/DataScience/blob/machine-learning-python/module1-fundamentals-of-machine-learning/cheat-sheet.md "CheatSheet")
 
-## [Models](https://github.com/pawan-mittal/DataScience/tree/machine-learning-python/module1-fundamentals-of-machine-learning/ml-models "Models")
-
