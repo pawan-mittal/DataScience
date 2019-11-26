@@ -25,6 +25,7 @@ plt.scatter(X_R1, y_R1, marker= 'o', s=50)
 plt.show()
 ```
 
+![1](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module2/1.png)
 
 ## synthetic dataset for more complex regression
 ```
@@ -36,6 +37,8 @@ X_F1, y_F1 = make_friedman1(n_samples = 100,
 plt.scatter(X_F1[:, 2], y_F1, marker= 'o', s=50)
 plt.show()
 ```
+![1](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module2/2.png)
+
 
 ## synthetic dataset for classification (binary) 
 ```
@@ -50,6 +53,9 @@ plt.scatter(X_C2[:, 0], X_C2[:, 1], c=y_C2,
 plt.show()
 ```
 
+![1](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module2/3.png)
+
+
 ## more difficult synthetic dataset for classification (binary) 
 
 ### with classes that are not linearly separable
@@ -63,6 +69,9 @@ plt.scatter(X_D2[:,0], X_D2[:,1], c=y_D2,
            marker= 'o', s=50, cmap=cmap_bold)
 plt.show()
 ```
+
+![1](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module2/4.png)
+
 
 ### Breast cancer dataset for classification
 ```
