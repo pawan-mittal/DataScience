@@ -1,6 +1,8 @@
 # Module3 - Evaluation
 
-## Model Evaluation Selection
+[Model Evaluation Selection](#model-evaluation-selection)
+
+# model-evaluation-selection
 
 ![Model Evaluation Selection](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/model-evaluation-selection/1.png)
 
