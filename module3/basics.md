@@ -23,7 +23,7 @@
 ![Model Evaluation Selection](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/model-evaluation-selection/9.png)
 
 
-#confusion-matrices-basic-evaluation-metrices
+# confusion-matrices-basic-evaluation-metrices
 
 ![Confusion Matrices Basic Evaluation Metrices](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/confusion-matrices-basic-evaluation-metrices/1.png)
 
