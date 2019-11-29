@@ -1,28 +1,19 @@
-# Module2 - Supervised Learning
+# Module3 - Evaluation
 
-## Overview
+## Model Evaluation Selection
 
-![Overview](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/2.png)
+![Model Evaluation Selection](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/model-evaluation-selection/1.png)
 
-## Model Complexity 
-![Model Complexity](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/1.png)
+![Model Evaluation Selection](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/model-evaluation-selection/2.png)
 
-## Classification and Regression
+![Model Evaluation Selection](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/model-evaluation-selection/3.png)
 
-![Classification and Regression](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/6.png)
+![Model Evaluation Selection](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/model-evaluation-selection/4.png)
 
-![Classification and Regression](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/3.png)
+![Model Evaluation Selection](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/model-evaluation-selection/5.png)
 
-## Multi Class - Classification
+![Model Evaluation Selection](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/model-evaluation-selection/6.png)
 
-![Multi Class - Classification](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/4.png)
+![Model Evaluation Selection](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/model-evaluation-selection/7.png)
 
-![Multi Class - Classification](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/5.png)
-
-## R2 ("r-squared") regression score
-
-![regression score](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/7.png)
-
-## Least-Sqares linear regression
-
-![Least-Sqares linear regression](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/8.png)
+![Model Evaluation Selection](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/models/supervised/model-evaluation-selection/8.png)
