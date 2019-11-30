@@ -1,5 +1,6 @@
 # Naive Bayes Classifiers
 
+
 ## Gaussian Naive Bayes classifier: Dataset 1
 ```
 from sklearn.naive_bayes import GaussianNB
