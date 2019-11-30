@@ -8,3 +8,9 @@
 ## [Classifier Decision Functions](classifier-decision-functions.md "Classifier Decision Functions")
 
 ## [Precision-recall and ROC curves](precision-recall-and-roc-curves.md "1")
+
+## [Multi-Class Evaluation](multi-class-evaluation.md "1")
+
+## [Regression Evaluation](regression-evaluation.md "1")
+
+## [Model Selection: Optimizing Classifiers for Different Evaluation Metrics](model-selection-optimizing-classifiers-for-different-evaluation-metrics.md "1")
