@@ -19,7 +19,7 @@ plot_class_regions_for_classifier_subplot(clf, X_train, y_train, X_test, y_test,
 plt.show()
 ```
 
-![1](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module4/3.png)
+![1](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module4/3-0.png)
 
 ## Random forest: Fruit dataset
 
@@ -56,7 +56,7 @@ print('Accuracy of RF classifier on training set: {:.2f}'.format(clf.score(X_tra
 print('Accuracy of RF classifier on test set: {:.2f}'.format(clf.score(X_test, y_test)))
 ```
 
-![1](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module4/4.png)
+![1](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module4/4-0.png)
 
 ### Random Forests on a real-world dataset
 ```
