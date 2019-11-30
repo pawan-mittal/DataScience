@@ -6,3 +6,5 @@
 
 
 ## [Classifier Decision Functions](classifier-decision-functions.md "Classifier Decision Functions")
+
+## [Precision-recall and ROC curves](precision-recall-and-roc-curves.md "1")
