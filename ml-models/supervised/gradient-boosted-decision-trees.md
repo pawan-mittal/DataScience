@@ -14,7 +14,7 @@ plot_class_regions_for_classifier_subplot(clf, X_train, y_train, X_test, y_test,
 
 plt.show()
 ```
-![1](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module4/5.png)
+![1](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module4/5-0.png)
 
 ## Gradient boosted decision trees on the fruit dataset
 
@@ -43,7 +43,7 @@ print('Accuracy of GBDT classifier on training set: {:.2f}'.format(clf.score(X_t
 print('Accuracy of GBDT classifier on test set: {:.2f}'.format(clf.score(X_test, y_test)))
  ```
  
- ![1](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module4/6.png)
+ ![1](https://pawan-mittal.github.io/allassets.github.io/data-science/machine-learning-python/charts/module4/6-0.png)
  
  ## Gradient-boosted decision trees on a real-world dataset
  
