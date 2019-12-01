@@ -13,6 +13,8 @@
 
 ## [Regression evaluation metrics](regression-evaluation-metrics.md "1")
 
+## [Model selection using evaluation metrics](model-selection-using-evaluation-metrics.md "1")
+
 ## Load Libs
 ```
 %matplotlib notebook
