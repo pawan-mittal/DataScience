@@ -5,6 +5,8 @@
 
 ## [Confusion matrices](confusion-matrices.md "1")
 
+## [Decision functions](decision-functions.md "1")
+
 ## Load Libs
 ```
 %matplotlib notebook
