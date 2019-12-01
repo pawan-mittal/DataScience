@@ -11,6 +11,8 @@
 
 ## [Evaluation measures for multi-class classification](evaluation-measures-for-multi-class-classification.md "1")
 
+## [Regression evaluation metrics](evaluation-measures-for-multi-class-classification.md "1")
+
 ## Load Libs
 ```
 %matplotlib notebook
