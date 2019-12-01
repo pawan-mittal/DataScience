@@ -7,6 +7,8 @@
 
 ## [Decision functions](decision-functions.md "1")
 
+## [Precision-recall curves](precision-recall-curves.md "1")
+
 ## Load Libs
 ```
 %matplotlib notebook
