@@ -15,6 +15,8 @@
 
 ## [Model selection using evaluation metrics](model-selection-using-evaluation-metrics.md "1")
 
+## [Two-feature classification example using the digits dataset](two-feature-classification-example-using-the-digits-dataset.md "1")
+
 ## Load Libs
 ```
 %matplotlib notebook
