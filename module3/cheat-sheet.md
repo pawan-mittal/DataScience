@@ -9,6 +9,8 @@
 
 ## [Precision-recall curves](precision-recall-curves.md "1")
 
+## [Evaluation measures for multi-class classification](evaluation-measures-for-multi-class-classification.md "1")
+
 ## Load Libs
 ```
 %matplotlib notebook
