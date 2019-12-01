@@ -2,6 +2,10 @@
 
 ## Evaluation for Classification
 
+
+## [Confusion matrices](confusion-matrices.md "1")
+
+## Load Libs
 ```
 %matplotlib notebook
 import numpy as np
@@ -63,6 +67,4 @@ svm = SVC(kernel='linear', C=1).fit(X_train, y_train)
 svm.score(X_test, y_test)
 
 ```
-
-## [Confusion matrices](confusion-matrices.md "1")
 
