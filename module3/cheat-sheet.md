@@ -125,3 +125,23 @@ confusion = confusion_matrix(y_test, tree_predicted)
 print('Decision tree classifier (max_depth = 2)\n', confusion)
 
 ```
+
+## Evaluation metrics for binary classification
+```
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
+# Accuracy = TP + TN / (TP + TN + FP + FN)
+# Precision = TP / (TP + FP)
+# Recall = TP / (TP + FN)  Also known as sensitivity, or True Positive Rate
+# F1 = 2 * Precision * Recall / (Precision + Recall) 
+print('Accuracy: {:.2f}'.format(accuracy_score(y_test, tree_predicted)))
+print('Precision: {:.2f}'.format(precision_score(y_test, tree_predicted)))
+print('Recall: {:.2f}'.format(recall_score(y_test, tree_predicted)))
+print('F1: {:.2f}'.format(f1_score(y_test, tree_predicted)))
+```
+
+## Combined report with all above metrics
+```
+from sklearn.metrics import classification_report
+
+print(classification_report(y_test, tree_predicted, target_names=['not 1', '1']))
+```
