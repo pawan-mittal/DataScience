@@ -11,5 +11,8 @@ Purpose of this repo is to make short notes based on learning in Course "Machine
 ## _[Tools](ml-tools.md "Tools")_
 
 ## _[Module1 - Fundamentals of Machine Learning](module1 "Module1 - Fundamentals of Machine Learning")_
+## _[Module2 - Supervised Learning, Part I](module2 "Module2 - Supervised Learning, Part I")_
+## _[Module3 - Evaluation](module3 "Module3 - Evaluation")_
+## _[Module4 - Supervised Learning, Part II](module4 "Module4 - Supervised Learning, Part II")_
 
 ## [Models](ml-models "Models")
